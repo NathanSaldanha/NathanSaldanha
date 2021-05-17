@@ -14,10 +14,11 @@
 ### Linguagens e Ferramentas que utilizo:
 
 <p>
-  <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-CB3837?style=flat-square&logo=ruby-on-rails&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-54c5f8?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
-    <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CB3837?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
