@@ -7,7 +7,7 @@
 - 🥅 Metas de 2021: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.
 
 ### Entre em contato:
-[![Linkedin Badge](https://img.shields.io/badge/-@nathanmariano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-mariano-825942151/)](https://www.linkedin.com/in/nathan-mariano-825942151/)
+[![Linkedin Badge](https://img.shields.io/badge/nathan_mariano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-mariano-825942151/)](https://www.linkedin.com/in/nathan-mariano-825942151/)
 [![Gmail Badge](https://img.shields.io/badge/-nmariano85-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nmariano85@gmail.com)](mailto:nmariano85@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@nathan.mariano_-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/pdavinl/)](https://www.instagram.com/nathan.mariano_/)
 
