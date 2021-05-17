@@ -1,4 +1,4 @@
-## Olá, Bem Vindo ao meu Perfil 👋
+## Olá, Bem Vindo ao meu Perfil 👋🏾
 
 - 📖 No presente momento estou no último ano do curso de Redes de Computadores no IFCE.
 - 💼 Estou trabalhando como Estágiario de Desenvolvimento na Brasil System.
