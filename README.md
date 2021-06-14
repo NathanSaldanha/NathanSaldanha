@@ -2,7 +2,7 @@
 
 - 📖 No presente momento estou no último ano do curso de Redes de Computadores no IFCE.
 - 💼 Estou trabalhando como Estágiario de Desenvolvimento na Brasil System.
-- 🌱 Atualmente estou aprendendo um pouco de tudo, mas principalmente sobre Ruby on Rails e bibliotecas/frameworks JavaScript.
+- 📚 Atualmente estou aprendendo um pouco de tudo, mas principalmente sobre Ruby on Rails e bibliotecas/frameworks JavaScript.
 - 🦸🏾‍♂️ Estou buscando desenvolver mais projetos pessoais.
 - 🥅 Metas de 2021: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.
 
