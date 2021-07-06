@@ -38,7 +38,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=NathanSaldanha&include_all_commits=true&show_icons=true&hide_border=true&bg_color=30,28E7B1,17D6EB&title_color=000411&text_color=000411&icon_color=333%22"
+      src="https://github-readme-stats.vercel.app/api?username=NathanSaldanha&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=30,28E7B1,17D6EB&title_color=000411&text_color=000411&icon_color=333%22"
     />
   </a>
 </p>
