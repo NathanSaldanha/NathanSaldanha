@@ -2,7 +2,7 @@
 
 - 📖 No presente momento estou no último ano do curso de Redes de Computadores no IFCE.
 - 💼 Estou trabalhando como Engenheiro de Software na Nubank.
-- 📚 Atualmente estou aprendendo sobre progrmação funcional com Clojure, banco de dados com Datomic e Kafka.
+- 📚 Atualmente estou aprendendo sobre progrmação funcional com Clojure, banco de dados Datomic e Kafka.
 - 🦸🏾‍♂️ Estou buscando desenvolver mais projetos pessoais.
 - 🥅 Metas de 2021: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.
 
