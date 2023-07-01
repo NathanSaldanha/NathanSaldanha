@@ -1,9 +1,8 @@
 ## Olá, Bem Vindo ao meu Perfil 👋🏾
 
 - 📖 Graduado em Redes de Computadores no IFCE.
-- 💼 Estou trabalhando como Engenheiro de Software na Nubank.
+- 👨🏽‍💻 Estou trabalhando como Engenheiro de Software na Nubank.
 - 📚 Atualmente estou aprendendo sobre programação funcional com Clojure, banco de dados Datomic e Kafka.
-- 🦸🏾‍♂️ Estou buscando desenvolver mais projetos pessoais.
 - 🥅 Metas de 2023: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.
 
 ### Entre em contato:
