@@ -3,7 +3,7 @@
 - 📖 Graduado em Redes de Computadores no IFCE.
 - 👨🏽‍💻 Estou trabalhando como Engenheiro de Software na Nubank.
 - 📚 Atualmente estou aprendendo sobre programação funcional com Clojure, banco de dados Datomic e Kafka.
-- 🥅 Metas de 2023: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.
+- 🥅 Metas de 2024: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.
 
 ### Entre em contato:
 [![Linkedin Badge](https://img.shields.io/badge/nathan_mariano-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-mariano-825942151/)](https://www.linkedin.com/in/nathan-mariano-825942151/)
